@@ -6,6 +6,7 @@ public class test1 {
 		System.out.println("±è°à¿î");
 		System.out.println("±èµ¿Çö");
 		System.out.println("±è¹Î¼º");
+		System.out.println("±è¹ÎÁØ");
 	}
 
 }
